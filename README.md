@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Название занятия`" - `Фамилия и имя студента`
+# Домашнее задание к занятию "`Git`" - `Мальков Григорий`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -44,7 +44,7 @@
 
 ### Ответ 1
 
-[ССылка](https://github.com/Gr1ck01/my-first-repository/commit/2fdeb82e09243c12cb2175ac0ef9c010af6fe6f3)
+[Ссылка](https://github.com/Gr1ck01/my-first-repository/commit/2fdeb82e09243c12cb2175ac0ef9c010af6fe6f3)
 
 ---
 
@@ -61,7 +61,7 @@
 
 ### Ответ 2
 
-[ССылка](https://github.com/Gr1ck01/my-first-repository/commit/9d2921c5f5f5ecc3d82f4caad64b1fc3c22b5390)
+[Ссылка](https://github.com/Gr1ck01/my-first-repository/commit/9d2921c5f5f5ecc3d82f4caad64b1fc3c22b5390)
 
 ---
 
@@ -82,4 +82,4 @@
 
 ### Ответ 3
 
-[ССылка](https://github.com/Gr1ck01/my-first-repository/network)
+[Ссылка](https://github.com/Gr1ck01/my-first-repository/network)
